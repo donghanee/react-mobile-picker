@@ -17,7 +17,7 @@ Or visit (in mobile or mobile simulator): [http://adcentury.github.io/react-mobi
 ## Install
 
 ```
-npm install react-mobile-picker --save
+npm install donghanee/react-mobile-picker --save
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ npm install react-mobile-picker --save
 ### ES6
 
 ```javascript
-import Picker from 'react-mobile-picker';
+import Picker from 'react-mobile-picker2';
 ```
 
 ### CommonJS
